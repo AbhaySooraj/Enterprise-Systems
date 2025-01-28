@@ -1,0 +1,11 @@
+ProductID,ProductName,UnitsSold,Date
+101,Apple,10,2025-01-01
+102,Banana,15,2025-01-01
+103,Carrot,5,2025-01-01
+104,Tomato,10,2025-01-01
+105,Potato,20,2025-01-01
+101,Apple,12,2025-01-02
+102,Banana,8,2025-01-02
+103,Carrot,7,2025-01-02
+104,Tomato,5,2025-01-02
+105,Potato,18,2025-01-02

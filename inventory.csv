@@ -1,0 +1,4 @@
+ProductID,ProductName,Price,Stock,UnitsSold
+102,Apple,20.0,10,5
+101,Banana,250.0,50,15
+101,Apple,120.0,100,50
